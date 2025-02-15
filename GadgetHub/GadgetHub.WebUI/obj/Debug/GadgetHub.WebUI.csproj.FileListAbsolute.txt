@@ -84,3 +84,8 @@ C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub
 C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\obj\Debug\GadgetHu.799E193E.Up2Date
 C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\obj\Debug\GadgetHub.WebUI.dll
 C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\obj\Debug\GadgetHub.WebUI.pdb
+C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\EntityFramework.dll
+C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\GadgetHub.Domain.dll.config
+C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\EntityFramework.xml
+C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\EntityFramework.SqlServer.xml
