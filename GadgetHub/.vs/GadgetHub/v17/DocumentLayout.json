@@ -3,36 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E76331CE-B546-4003-A0D0-C07E038E84D8}|GadgetHub.Domain\\GadgetHub.Domain.csproj|c:\\users\\haagria\\desktop\\2025 classes sem 1\\application development ii\\gadgethub\\gadgethub.domain\\concrete\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E76331CE-B546-4003-A0D0-C07E038E84D8}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\concrete\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E76331CE-B546-4003-A0D0-C07E038E84D8}|GadgetHub.Domain\\GadgetHub.Domain.csproj|c:\\users\\haagria\\desktop\\2025 classes sem 1\\application development ii\\gadgethub\\gadgethub.domain\\concrete\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E76331CE-B546-4003-A0D0-C07E038E84D8}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\concrete\\efdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:GadgetHub.WebUI\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:GadgetHub.WebUI\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\haagria\\desktop\\2025 classes sem 1\\application development ii\\gadgethub\\gadgethub.webui\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:GadgetHub.WebUI\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:GadgetHub.WebUI\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\haagria\\desktop\\2025 classes sem 1\\application development ii\\gadgethub\\gadgethub.webui\\models\\productslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\models\\productslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\haagria\\desktop\\2025 classes sem 1\\application development ii\\gadgethub\\gadgethub.webui\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\haagria\\desktop\\2025 classes sem 1\\application development ii\\gadgethub\\gadgethub.webui\\htmlhelpers\\paginghelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\htmlhelpers\\paginghelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\haagria\\desktop\\2025 classes sem 1\\application development ii\\gadgethub\\gadgethub.webui\\models\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\models\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\haagria\\desktop\\2025 classes sem 1\\application development ii\\gadgethub\\gadgethub.webui\\infrastructure\\ninjectdependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\infrastructure\\ninjectdependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76331CE-B546-4003-A0D0-C07E038E84D8}|GadgetHub.Domain\\GadgetHub.Domain.csproj|C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.Domain\\Concrete\\EFProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76331CE-B546-4003-A0D0-C07E038E84D8}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:GadgetHub.Domain\\Concrete\\EFProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76331CE-B546-4003-A0D0-C07E038E84D8}|GadgetHub.Domain\\GadgetHub.Domain.csproj|C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.Domain\\Concrete\\EFDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76331CE-B546-4003-A0D0-C07E038E84D8}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:GadgetHub.Domain\\Concrete\\EFDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:GadgetHub.WebUI\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:GadgetHub.WebUI\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8975E30-5686-44E7-B1FE-ABC2BDBC2AD8}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +70,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T10:49:40.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Models\\ProductsListViewModel.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Models\\ProductsListViewModel.cs",
+              "ToolTip": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Models\\ProductsListViewModel.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\Models\\ProductsListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:44:53.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Views\\web.config",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\web.config",
+              "ToolTip": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Views\\web.config",
+              "RelativeToolTip": "GadgetHub.WebUI\\Views\\web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-19T20:42:51.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PagingHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\HtmlHelpers\\PagingHelpers.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\HtmlHelpers\\PagingHelpers.cs",
+              "ToolTip": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\HtmlHelpers\\PagingHelpers.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\HtmlHelpers\\PagingHelpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:33:40.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PagingInfo.cs",
+              "DocumentMoniker": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Models\\PagingInfo.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Models\\PagingInfo.cs",
+              "ToolTip": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Models\\PagingInfo.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\Models\\PagingInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:31:53.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Views\\Product\\List.cshtml",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Product\\List.cshtml",
+              "ToolTip": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Views\\Product\\List.cshtml",
+              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Product\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T20:51:04.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NinjectDependencyResolver.cs",
+              "DocumentMoniker": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "ToolTip": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwCgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:39:59.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "EFProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.Domain\\Concrete\\EFProductRepository.cs",
               "RelativeDocumentMoniker": "GadgetHub.Domain\\Concrete\\EFProductRepository.cs",
@@ -66,12 +173,11 @@
               "RelativeToolTip": "GadgetHub.Domain\\Concrete\\EFProductRepository.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T12:08:47.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T12:08:47.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "EFDbContext.cs",
               "DocumentMoniker": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.Domain\\Concrete\\EFDbContext.cs",
               "RelativeDocumentMoniker": "GadgetHub.Domain\\Concrete\\EFDbContext.cs",
@@ -79,38 +185,11 @@
               "RelativeToolTip": "GadgetHub.Domain\\Concrete\\EFDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T12:03:44.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T12:03:44.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Views\\Product\\List.cshtml",
-              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Product\\List.cshtml",
-              "ToolTip": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Views\\Product\\List.cshtml",
-              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Product\\List.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-15T10:43:38.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NinjectDependencyResolver.cs",
-              "DocumentMoniker": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
-              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
-              "ToolTip": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
-              "RelativeToolTip": "GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCgAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T16:39:59.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml",
@@ -118,25 +197,24 @@
               "RelativeToolTip": "GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-15T10:43:51.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T10:43:51.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Controllers\\ProductController.cs",
               "RelativeToolTip": "GadgetHub.WebUI\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T10:38:21.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Web.config",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Web.config",
@@ -149,20 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T10:49:40.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.WebUI\\Global.asax.cs",
               "RelativeDocumentMoniker": "GadgetHub.WebUI\\Global.asax.cs",
@@ -170,12 +235,11 @@
               "RelativeToolTip": "GadgetHub.WebUI\\Global.asax.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T23:23:14.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T23:23:14.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.Domain\\Abstract\\IProductRepository.cs",
               "RelativeDocumentMoniker": "GadgetHub.Domain\\Abstract\\IProductRepository.cs",
@@ -183,12 +247,11 @@
               "RelativeToolTip": "GadgetHub.Domain\\Abstract\\IProductRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T23:01:30.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T23:01:30.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\haagria\\Desktop\\2025 Classes Sem 1\\Application Development II\\GadgetHub\\GadgetHub.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "GadgetHub.Domain\\Entities\\Product.cs",
@@ -196,8 +259,7 @@
               "RelativeToolTip": "GadgetHub.Domain\\Entities\\Product.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAuwAsAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T16:54:47.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T16:54:47.456Z"
             }
           ]
         }

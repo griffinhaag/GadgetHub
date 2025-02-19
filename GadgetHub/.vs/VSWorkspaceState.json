@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\GadgetHub.WebUI",
+    "\\GadgetHub.WebUI\\Infrastructure"
   ],
+  "SelectedNode": "\\GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
   "PreviewInSolutionExplorer": false
 }
