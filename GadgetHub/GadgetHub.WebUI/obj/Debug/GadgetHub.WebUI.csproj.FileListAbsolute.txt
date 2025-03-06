@@ -50,6 +50,8 @@ C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub
 C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\roslyn\vbc.rsp
 C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\roslyn\VBCSCompiler.exe
 C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\EntityFramework.dll
+C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\EntityFramework.SqlServer.dll
 C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\GadgetHub.Domain.dll
 C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\Microsoft.Web.Infrastructure.dll
@@ -65,6 +67,9 @@ C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub
 C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\System.Web.WebPages.Razor.dll
 C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\WebActivator.dll
 C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\GadgetHub.Domain.pdb
+C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\GadgetHub.Domain.dll.config
+C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\EntityFramework.xml
+C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\EntityFramework.SqlServer.xml
 C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\Moq.xml
 C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\Ninject.pdb
@@ -84,8 +89,3 @@ C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub
 C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\obj\Debug\GadgetHu.799E193E.Up2Date
 C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\obj\Debug\GadgetHub.WebUI.dll
 C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\obj\Debug\GadgetHub.WebUI.pdb
-C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\EntityFramework.dll
-C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\EntityFramework.SqlServer.dll
-C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\GadgetHub.Domain.dll.config
-C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\EntityFramework.xml
-C:\Users\haagria\Desktop\2025 Classes Sem 1\Application Development II\GadgetHub\GadgetHub.WebUI\bin\EntityFramework.SqlServer.xml

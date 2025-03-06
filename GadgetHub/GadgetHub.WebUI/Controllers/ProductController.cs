@@ -18,22 +18,28 @@ namespace GadgetHub.WebUI.Controllers
             this.myrepository = productRepository;
         }
 
-        public int PageSize = 4;
+        public int PageSize = 3;
 
-        public ViewResult List(int page = 1)
+        public ViewResult List(string category, int page = 1)
         {
             ProductsListViewModel model = new ProductsListViewModel
             {
-                Products = myrepository.Products.OrderBy(p => p.ProductID)
+                Products = myrepository.Products
+                                             .Where(p => category == null || p.category == category)
+                                             .OrderBy(p => p.ProductID)
                                              .Skip((page - 1) * PageSize)
                                              .Take(PageSize),
 
-            PagingInfo = new PagingInfo
-            {
-                CurrentPage = page,
-                ItemsPerPage = PageSize,
-                TotalItems = myrepository.Products.Count()
-            }
+                PagingInfo = new PagingInfo
+                {
+                    CurrentPage = page,
+                    ItemsPerPage = PageSize,
+                    TotalItems = category == null ?
+                                    myrepository.Products.Count() :
+                                    myrepository.Products.Where
+                                          (e => e.category == category).Count()
+                },
+                CurrentCategory = category
           };
           return View(model);
         }                               

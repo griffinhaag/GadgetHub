@@ -4,13 +4,33 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
     <title>@ViewBag.Title</title>
 </head>
 
-<body>
-    <div class="container body-content">
-        @RenderBody()
-    </div>
-</body>
 
+<body>
+
+    @* This is a Razor comment. It won't be sent to the client *@
+    <!-- This is an HTML comment. It will be visible in the page source (for my references)-->
+
+    @* Navigation bar - displays 'GADGET HUB' title *@
+    <div class="navbar navbar-dark bg-dark">
+        <a class="navbar-brand ms-4" href="#">GADGET HUB</a>
+    </div>
+
+    @* A panel to list the categories *@
+    <div class="row border p-3">
+        <div id="categories" class="col-3">
+        @Html.Action("Menu", "Nav")
+        </div>
+
+    @* A placeholder <div> - to display body *@
+        <div class="col-9">
+        @RenderBody()
+        </div>
+    </div>
+
+
+</body>
 </html>

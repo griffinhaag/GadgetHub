@@ -11,5 +11,9 @@ namespace GadgetHub.WebUI.Models
         public IEnumerable<Product> Products { get; set; }
 
         public PagingInfo PagingInfo { get; set; }
+
+        // Add current category property
+
+        public string CurrentCategory {  get; set; }
     }
 }
