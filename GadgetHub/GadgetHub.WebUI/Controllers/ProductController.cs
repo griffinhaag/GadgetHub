@@ -18,7 +18,7 @@ namespace GadgetHub.WebUI.Controllers
             this.myrepository = productRepository;
         }
 
-        public int PageSize = 3;
+        public int PageSize = 4;
 
         public ViewResult List(string category, int page = 1)
         {
