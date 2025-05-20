@@ -13,9 +13,12 @@ namespace GadgetHub.WebUI.Controllers
     {
         private IProductRepository repository;
 
-        public CartController(IProductRepository repo)
+        private IOrderProcessor orderProcessor; // IOrderProcessor
+
+        public CartController(IProductRepository repo, IOrderProcessor proc)
         {
             repository = repo;
+            orderProcessor = proc;
         }
 
         private Cart GetCart()
@@ -68,6 +71,31 @@ namespace GadgetHub.WebUI.Controllers
         public PartialViewResult Summary(Cart cart)
         {
             return PartialView(cart);
+        }
+
+        public ViewResult Checkout()
+        {
+            return View(new ShippingDetails());
+        }
+        [HttpPost]
+
+        public ViewResult Checkout(Cart cart, ShippingDetails shippingDetails)
+        {
+            if (cart.Lines.Count() == 0)
+            {
+                ModelState.AddModelError("", "Sorry, your cart is empty!");
+            }
+
+            if(ModelState.IsValid)
+            {
+                orderProcessor.ProcessOrder(cart, shippingDetails);
+                cart.Clear();
+                return View("Completed", shippingDetails);
+            }
+            else
+            {
+                return View(shippingDetails);
+            }
         }
     }
 }

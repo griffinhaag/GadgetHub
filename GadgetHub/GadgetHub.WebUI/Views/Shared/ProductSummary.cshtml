@@ -1,6 +1,15 @@
 ﻿@model GadgetHub.Domain.Entities.Product
 
 <div class="card p-3 bg-light text-dark mb-2">
+
+    @if(Model.ImageData != null)
+            {
+                <div class="pull-left" style="margin-right: 10px">
+                    <img class="img-thumbnail" width="85" height="85"
+                         src="@Url.Action("GetImage", "Product", new { Model.ProductID })" />
+                </div>
+            }
+
     <h3>
         <strong>@Model.Name</strong>
         <span class="badge bg-primary float-end">

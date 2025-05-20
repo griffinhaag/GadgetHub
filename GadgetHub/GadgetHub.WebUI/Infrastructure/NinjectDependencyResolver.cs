@@ -8,6 +8,9 @@ using Moq;
 using GadgetHub.Domain.Abstract;
 using GadgetHub.Domain.Entities;
 using GadgetHub.Domain.Concrete;
+using System.Configuration; //Configuration namespace
+using GadgetHub.WebUI.Infrastructure.Abstract;
+using GadgetHub.WebUI.Infrastructure.Concrete;
 
 namespace GadgetHub.WebUI.Infrastructure
 {
@@ -33,14 +36,19 @@ namespace GadgetHub.WebUI.Infrastructure
 
         private void AddBindings()
         {
-            //Mock<IProductRepository> myMock = new Mock<IProductRepository>();
-            //myMock.Setup(m => m.Products).Returns(new List<Product> {
-            //    new Product { Name = "MacBook Pro", Price = 2600, Description = "High end computer from Apple", category = "Laptops"  },
-            //    new Product { Name = "Logitech mouse", Price = 36, Description = "Work mouse from Logitech", category = "Mice" },
-            //    new Product { Name = "AirPod Pros", Price = 150, Description = "High end headphones from Apple", category = "Headphones" }
-            //    });
-            //mykernel.Bind<IProductRepository>().ToConstant(myMock.Object);
             mykernel.Bind<IProductRepository>().To<EFProductRepository>();
+            EmailSettings emailSettings = new EmailSettings
+            {
+                WriteAsFile = bool.Parse
+                (ConfigurationManager.AppSettings["Email.WriteAsFile"] ?? "false")
+            };
+
+            mykernel.Bind<IOrderProcessor>()
+                .To<EmailOrderProcessor>()
+                .WithConstructorArgument("settings", emailSettings);
+
+            // Authentication
+            mykernel.Bind<IAuthProvider>().To<FormsAuthProvider>();
         }
     }
 }

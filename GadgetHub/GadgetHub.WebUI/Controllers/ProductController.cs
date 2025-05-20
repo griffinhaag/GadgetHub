@@ -6,6 +6,7 @@ using System.Web;
 using System.Web.Mvc;
 using GadgetHub.WebUI.Models;
 using System.Runtime.Remoting.Messaging;
+using GadgetHub.Domain.Entities;
 
 namespace GadgetHub.WebUI.Controllers
 {
@@ -42,6 +43,21 @@ namespace GadgetHub.WebUI.Controllers
                 CurrentCategory = category
           };
           return View(model);
-        }                               
+        }
+        
+        public FileContentResult GetImage(int productId)
+        {
+            Product prod = myrepository.Products.FirstOrDefault(p => p.ProductID == productId);
+
+            if(prod != null)
+            {
+                return File(prod.ImageData, prod.ImageMimeType);
+            }
+
+            else
+            {
+                return null;
+            }
+        }
     }
 }
