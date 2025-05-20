@@ -1,13 +1,18 @@
 ﻿@model GadgetHub.Domain.Entities.Product
 
 @{
-    ViewBag.Title = "Admin: Edit " + Model.Name;
+    ViewBag.Title = Model.ProductID == 0
+        ? "Admin: Add New Product"
+        : "Admin: Edit " + Model.Name;
+
     Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
 
+
 <div class="card">
     <div class="card-header">
-        <h3>Edit @Model.Name</h3>
+        <h3>@(Model.ProductID == 0 ? "Add a New Product" : "Edit " + Model.Name)</h3>
+
     </div>
 
     @using (Html.BeginForm("Edit", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
@@ -74,7 +79,7 @@
         </div>
 
         <div class="card-footer">
-            <input type="submit" value="Save" class="btn btn-primary" />
+            <input type="submit" value="@(Model.ProductID == 0 ? "Add Product" : "Save Changes")" class="btn btn-primary" />
             @Html.ActionLink("Cancel and return to List", "Index", null, new { @class = "btn btn-secondary" })
         </div>
     }
